@@ -1,4 +1,6 @@
-### Hi there 👋
+### Whats up
+- I'm a computer science student at UGA
+- I'll probably put something else here eventually 
 
 <!--
 **Heliolight/Heliolight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
